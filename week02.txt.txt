@@ -1,0 +1,10 @@
+week02
+-lenux command: ls, ls -a, ls -al, pwd, cd ,git, cd _
+-git command
+git init
+git status
+git add week01.txt
+git config --global user.email"you@example.com"
+git config --global user.name"이름m"
+git config --global --list
+git config --global 
