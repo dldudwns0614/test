@@ -1,5 +1,5 @@
-packge main
+package main
 
 func main(){
-  println"Hell world"
+  println("Hell world")
   }
